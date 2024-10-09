@@ -1,3 +1,24 @@
-# Taller-ConsumoApi
+# taller-api
 
-La informacion se despliega en la pagina, los botones no se lograron implementar a tiempo. Se muestra en orden de paises Anime y manga random y recomendacion.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
